@@ -1,4 +1,4 @@
-## Hi there (leia com a voz do Obi-Wan) 👋
+## Hello there (leia com a voz do Obi-Wan) 👋
 
 - 🔭 Hoje trabalho especialmente com front-end 
 - 🌱 Estou estudando Python e Java
