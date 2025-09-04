@@ -39,11 +39,6 @@
 
 
 <hr>
-<style> 
-  a {
-    text-decoration: none;
-  }
-</style>
 <p align="center">
   <a href="https://www.instagram.com/stephan.parode/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
