@@ -3,6 +3,12 @@
 - 🔭 Hoje trabalho especialmente com front-end 
 - 🌱 Estou estudando Django e PHP
 - 📫 Contate-me no email stephanparode@gmail.com
+
+<style> 
+  a {
+    text-decoration: none;
+  }
+</style>
 <div>
 <picture>
   <source
