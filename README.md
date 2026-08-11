@@ -3,7 +3,7 @@
 <h1>Hello there!</h1>
 
 <p>
-  <em>Computer Science undergraduate · Aspiring academic · Curious about how things work</em>
+  <em>Computer Science undergraduate · Aspiring academic </em>
 </p>
 
 <p>
@@ -90,9 +90,5 @@ and philosophy of science</strong>.
 <hr>
 
 <div align="center">
-
-<sub>
-  <i>Always learning, experimenting, and trying to understand computation a little better.</i>
-</sub>
 
 </div>
