@@ -85,9 +85,10 @@ and philosophy of science</strong>.
   <a href="https://www.instagram.com/stephanparode/">
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://www.linkedin.com/in/st%C3%A9phan-coelho-parode-530231431/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
+  </a>
 </p>
-
-<hr>
 
 <div align="center">
 
