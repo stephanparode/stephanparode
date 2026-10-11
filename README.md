@@ -1,4 +1,4 @@
-
+```html
 <div align="center">
 
 <h1>Hello there!</h1>
@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge&logoColor=white" alt="UFSM - Computer Science">
+    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge" alt="UFSM - Computer Science">
   </a>
 </p>
 
@@ -21,28 +21,28 @@
 
 <p>
 I am <strong>Stéphan Coelho Parode</strong>, a Brazilian Computer Science undergraduate at
-<a href="https://www.ufsm.br/">UFSM (Federal University of Santa Maria)</a>,
+<a href="https://www.ufsm.br/">UFSM (Universidade Federal de Santa Maria)</a>,
 aspiring to pursue an academic career in Computer Science.
 </p>
 
 <p>
-This profile showcases projects, experiments, and ideas I develop
+This profile contains some of the projects, experiments, and ideas I develop
 throughout my undergraduate studies.
 </p>
 
 <p>
-My interests lie in understanding Computer Science from both practical
-and theoretical perspectives, combining programming, mathematics,
+I am particularly interested in understanding Computer Science from both its
+practical and theoretical perspectives, combining programming, mathematics,
 and the study of computation.
 </p>
 
 <h2>Academic interests</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square&logo=academia&logoColor=white" alt="Theoretical Computer Science">
-  <img src="https://img.shields.io/badge/Linear%20Algebra-222222?style=flat-square&logo=matrix&logoColor=white" alt="Linear Algebra">
+  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square" alt="Theoretical Computer Science">
+  <img src="https://img.shields.io/badge/%E2%88%91-Linear%20Algebra-222222?style=flat-square" alt="Linear Algebra">
   <img src="https://img.shields.io/badge/Computer%20Organization-222222?style=flat-square" alt="Computer Organization">
-  <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square&logo=codeforces&logoColor=white" alt="Competitive Programming">
+  <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square" alt="Competitive Programming">
 </p>
 
 <p>
@@ -55,12 +55,12 @@ and philosophy of science</strong>.
 <ul>
   <li>Strengthening my foundations in Computer Science and Mathematics.</li>
   <li>Exploring theoretical and experimental aspects of computation.</li>
-  <li>Developing personal projects and expanding my programming skills.</li>
+  <li>Developing personal projects throughout my undergraduate studies.</li>
 </ul>
 
 <h2>Technologies</h2>
 
-<h3>Programming Languages</h3>
+<h3>Languages</h3>
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -77,7 +77,7 @@ and philosophy of science</strong>.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=allegro&logoColor=white" alt="Allegro">
+  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge" alt="Allegro">
 </p>
 
 <h2>Contact</h2>
@@ -87,7 +87,7 @@ and philosophy of science</strong>.
     <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/st%C3%A9phan-coelho-parode-530231431/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
 ```
