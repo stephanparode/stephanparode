@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <h1>Hello there!</h1>
@@ -90,4 +90,3 @@ and philosophy of science</strong>.
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
-```
