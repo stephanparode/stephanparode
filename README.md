@@ -3,12 +3,12 @@
 <h1>Hello there!</h1>
 
 <p>
-  <em>Computer Science undergraduate · Aspiring academic</em>
+  <em>Computer Science undergraduate · Aspiring academic </em>
 </p>
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="assets/ufsm.svg" alt="UFSM - Computer Science" height="28">
+    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge" alt="UFSM - Computer Science">
   </a>
 </p>
 
@@ -38,10 +38,10 @@ and the study of computation.
 <h2>Academic interests</h2>
 
 <p>
-  <img src="assets/theoretical-cs.svg" alt="Theoretical Computer Science" height="20">
-  <img src="assets/linear-algebra.svg" alt="Linear Algebra" height="20">
-  <img src="assets/computer-organization.svg" alt="Computer Organization" height="20">
-  <img src="assets/competitive-programming.svg" alt="Competitive Programming" height="20">
+  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square" alt="Theoretical Computer Science">
+  <img src="https://img.shields.io/badge/Linear%20Algebra-222222?style=flat-square" alt="Linear Algebra">
+  <img src="https://img.shields.io/badge/Computer%20Organization-222222?style=flat-square" alt="Computer Organization">
+  <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square" alt="Competitive Programming">
 </p>
 
 <p>
@@ -62,30 +62,37 @@ and philosophy of science</strong>.
 <h3>Languages</h3>
 
 <p>
-  <img src="assets/c.svg" alt="C" height="28">
-  <img src="assets/cpp.svg" alt="C++" height="28">
-  <img src="assets/python.svg" alt="Python" height="28">
-  <img src="assets/php.svg" alt="PHP" height="28">
-  <img src="assets/javascript.svg" alt="JavaScript" height="28">
-  <img src="assets/sql.svg" alt="SQL" height="28">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 
-<h3>Tools &amp; Environment</h3>
+<h3>Tools & Environment</h3>
 
 <p>
-  <img src="assets/linux.svg" alt="Linux" height="28">
-  <img src="assets/git.svg" alt="Git" height="28">
-  <img src="assets/mysql.svg" alt="MySQL" height="28">
-  <img src="assets/allegro.svg" alt="Allegro" height="28">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=allegro&logoColor=white" alt="Allegro">
 </p>
 
 <h2>Contact</h2>
 
 <p>
   <a href="https://www.instagram.com/stephanparode/">
-    <img src="assets/instagram.svg" alt="Instagram" height="28">
+    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/st%C3%A9phan-coelho-parode-530231431/">
-    <img src="assets/linkedin.svg" alt="LinkedIn" height="28">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
 </p>
+
+<div align="center">
+
+</div>
+
+
+meu readme está com alguns problemas. identifique-os e conserte-os
