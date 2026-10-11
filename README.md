@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="https://img.shields.io/static/v1?label=UFSM&message=Computer%20Science&color=003B71&style=for-the-badge&logo=googlescholar&logoColor=white" alt="UFSM - Computer Science">
+    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge&logo=academia&logoColor=white" alt="UFSM - Computer Science">
   </a>
 </p>
 
@@ -38,10 +38,10 @@ and the study of computation.
 <h2>Academic interests</h2>
 
 <p>
-  <img src="https://img.shields.io/static/v1?label=&message=Theoretical%20Computer%20Science&color=222222&style=flat-square" alt="Theoretical Computer Science">
-  <img src="https://img.shields.io/static/v1?label=&message=Linear%20Algebra&color=222222&style=flat-square" alt="Linear Algebra">
-  <img src="https://img.shields.io/static/v1?label=&message=Computer%20Organization&color=222222&style=flat-square" alt="Computer Organization">
-  <img src="https://img.shields.io/static/v1?label=&message=Competitive%20Programming&color=222222&style=flat-square" alt="Competitive Programming">
+  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square" alt="Theoretical Computer Science">
+  <img src="https://img.shields.io/badge/Linear%20Algebra-222222?style=flat-square&cacheSeconds=300" alt="Linear Algebra">
+  <img src="https://img.shields.io/badge/Computer%20Organization-222222?style=flat-square" alt="Computer Organization">
+  <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square" alt="Competitive Programming">
 </p>
 
 <p>
@@ -76,7 +76,7 @@ and philosophy of science</strong>.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/static/v1?label=&message=Allegro&color=0A7BBB&style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Allegro">
+  <img src="https://img.shields.io/badge/Allegro-0A7BBB?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Allegro">
 </p>
 
 <h2>Contact</h2>
