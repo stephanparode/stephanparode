@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge" alt="UFSM - Computer Science">
+    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDhoNDB2MTJIMjR2OGgyNHYxMkgyNHYxNkgxMnoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzQgNWw1IDgtNSA4LTUtOHoiLz48L3N2Zz4%3D" alt="UFSM - Computer Science">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ and the study of computation.
 
 <p>
   <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square" alt="Theoretical Computer Science">
-  <img src="https://img.shields.io/badge/%E2%88%91-Linear%20Algebra-222222?style=flat-square" alt="Linear Algebra">
+  <img src="https://img.shields.io/badge/Linear%20Algebra-222222?style=flat-square&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHBhdGggZD0iTTE4IDEySDEwdjQwaDhNNDYgMTJoOHY0MGgtOCIvPjxwYXRoIGQ9Ik0yNyAyMGgxME0yNyAzMmgxME0yNyA0NGgxMCIvPjwvZz4%3D" alt="Linear Algebra">
   <img src="https://img.shields.io/badge/Computer%20Organization-222222?style=flat-square" alt="Computer Organization">
   <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square" alt="Competitive Programming">
 </p>
@@ -77,7 +77,7 @@ and philosophy of science</strong>.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge" alt="Allegro">
+  <img src="https://img.shields.io/badge/Allegro-FF5A00?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTMyIDcgNCA1N2gxM0wzMiAyOWwxNSAyOGgxM3oiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjQgNDNoMTZsLTQtOGgtOHoiLz48L3N2Zz4%3D" alt="Allegro">
 </p>
 
 <h2>Contact</h2>
