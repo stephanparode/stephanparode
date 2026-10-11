@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="https://img.shields.io/badge/UFSM-Computer%20Science-003B71?style=for-the-badge" alt="UFSM - Computer Science">
+    <img src="assets/ufsm.svg" alt="UFSM - Computer Science" height="28">
   </a>
 </p>
 
@@ -38,10 +38,10 @@ and the study of computation.
 <h2>Academic interests</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-4B5563?style=for-the-badge" alt="Theoretical Computer Science">
-  <img src="https://img.shields.io/badge/Linear%20Algebra-4B5563?style=for-the-badge" alt="Linear Algebra">
-  <img src="https://img.shields.io/badge/Computer%20Organization-4B5563?style=for-the-badge" alt="Computer Organization">
-  <img src="https://img.shields.io/badge/Competitive%20Programming-4B5563?style=for-the-badge" alt="Competitive Programming">
+  <img src="assets/theoretical-cs.svg" alt="Theoretical Computer Science" height="20">
+  <img src="assets/linear-algebra.svg" alt="Linear Algebra" height="20">
+  <img src="assets/computer-organization.svg" alt="Computer Organization" height="20">
+  <img src="assets/competitive-programming.svg" alt="Competitive Programming" height="20">
 </p>
 
 <p>
@@ -62,30 +62,30 @@ and philosophy of science</strong>.
 <h3>Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
+  <img src="assets/c.svg" alt="C" height="28">
+  <img src="assets/cpp.svg" alt="C++" height="28">
+  <img src="assets/python.svg" alt="Python" height="28">
+  <img src="assets/php.svg" alt="PHP" height="28">
+  <img src="assets/javascript.svg" alt="JavaScript" height="28">
+  <img src="assets/sql.svg" alt="SQL" height="28">
 </p>
 
 <h3>Tools &amp; Environment</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Allegro-C%20Library-4B5563?style=for-the-badge" alt="Allegro (C library)">
+  <img src="assets/linux.svg" alt="Linux" height="28">
+  <img src="assets/git.svg" alt="Git" height="28">
+  <img src="assets/mysql.svg" alt="MySQL" height="28">
+  <img src="assets/allegro.svg" alt="Allegro" height="28">
 </p>
 
 <h2>Contact</h2>
 
 <p>
   <a href="https://www.instagram.com/stephanparode/">
-    <img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
+    <img src="assets/instagram.svg" alt="Instagram" height="28">
   </a>
   <a href="https://www.linkedin.com/in/st%C3%A9phan-coelho-parode-530231431/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin-white&amp;logoColor=fff" alt="LinkedIn">
+    <img src="assets/linkedin.svg" alt="LinkedIn" height="28">
   </a>
 </p>
