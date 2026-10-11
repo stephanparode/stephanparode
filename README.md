@@ -3,15 +3,13 @@
 <h1>Hello there!</h1>
 
 <p>
-  <em>Computer Science undergraduate · Aspiring academic</em>
+  <em>Computer Science undergraduate · Aspiring academic </em>
 </p>
 
 <p>
   <a href="https://www.ufsm.br/">
-    <img src="https://www.ufsm.br/app/uploads/2019/12/Bras%C3%A3o-horizontal.png" alt="UFSM official coat of arms and wordmark" height="52">
+    <img src="https://img.shields.io/static/v1?label=UFSM&message=Computer%20Science&color=003B71&style=for-the-badge&logo=googlescholar&logoColor=white" alt="UFSM - Computer Science">
   </a>
-  <br>
-  <img src="https://img.shields.io/badge/Computer%20Science-UFSM-003B71?style=for-the-badge" alt="Computer Science at UFSM">
 </p>
 
 </div>
@@ -40,10 +38,10 @@ and the study of computation.
 <h2>Academic interests</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/Theoretical%20Computer%20Science-222222?style=flat-square" alt="Theoretical Computer Science">
-  <img src="./assets/linear-algebra.svg" alt="Linear Algebra" height="20">
-  <img src="https://img.shields.io/badge/Computer%20Organization-222222?style=flat-square" alt="Computer Organization">
-  <img src="https://img.shields.io/badge/Competitive%20Programming-222222?style=flat-square" alt="Competitive Programming">
+  <img src="https://img.shields.io/static/v1?label=&message=Theoretical%20Computer%20Science&color=222222&style=flat-square" alt="Theoretical Computer Science">
+  <img src="https://img.shields.io/static/v1?label=&message=Linear%20Algebra&color=222222&style=flat-square" alt="Linear Algebra">
+  <img src="https://img.shields.io/static/v1?label=&message=Computer%20Organization&color=222222&style=flat-square" alt="Computer Organization">
+  <img src="https://img.shields.io/static/v1?label=&message=Competitive%20Programming&color=222222&style=flat-square" alt="Competitive Programming">
 </p>
 
 <p>
@@ -78,7 +76,7 @@ and philosophy of science</strong>.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Allegro-logo.svg" alt="Allegro game programming library" height="28">
+  <img src="https://img.shields.io/static/v1?label=&message=Allegro&color=0A7BBB&style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Allegro">
 </p>
 
 <h2>Contact</h2>
